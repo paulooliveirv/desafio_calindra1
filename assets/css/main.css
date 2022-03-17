@@ -51,4 +51,19 @@
     img{
         mix-blend-mode: multiply;
     }
+
+    .container__primeiro{
+        flex-direction: row;
+        justify-content: center;
+        height: calc(100vh - 110px);
+    }
+    .container__primeiro--h2{
+        font-size: 80px;
+        transform: translateY(-50%);
+    }
+    .container__primeiro__img--web{
+        width: 700px;
+        padding-left: 2rem;
+        transform: translateY(-40%);
+    }
 }
