@@ -31,7 +31,7 @@
 
 /* MEDIA QUERIES DESKTOP */
 
-@media screen and (min-width: 1439px){
+@media screen and (min-width: 1420px){
     .cabecalho__container{
         width: 100vw;
         height: 100px;

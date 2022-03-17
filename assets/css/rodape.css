@@ -35,3 +35,26 @@
     color: var(--marrom-escuro);
 }
 
+@media screen and (min-width: 1420px){
+    .rodape{
+        flex-direction: row;
+        margin: 4rem;
+    }
+
+    .rodape__social{
+        width: 30%;
+    }
+    .rodape__social--links{
+        justify-content: center;
+    }
+    .rodape__social--link--anchor{
+        align-items: center;
+    }
+
+    .rodape__contato--container{
+        width: 70%;
+    }
+    .contato__container--endereco{
+        margin-bottom: 10px;
+    }
+}

@@ -47,7 +47,7 @@
     bottom: 7rem;
 }
 
-@media screen and (min-width: 1439px){
+@media screen and (min-width: 1420px){
     img{
         mix-blend-mode: multiply;
     }
