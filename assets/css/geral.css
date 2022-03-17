@@ -1,0 +1,13 @@
+:root{
+    --branco: #ffffff;
+    --marrom-claro: #E9E9E9;
+    --marrom-agua: #E2E0B8;
+    --marrom-areia: #846219;
+    --marrom-escuro: #716565;
+    --azul: #506FA9;
+    --robotoC: 'Roboto Condensed', sans-serif;
+}
+
+*{
+    font-family: var(--robotoC);
+}
