@@ -47,7 +47,7 @@
     bottom: 7rem;
 }
 
-@media screen and (min-width: 1490px){
+@media screen and (min-width: 1439px){
     img{
         mix-blend-mode: multiply;
     }
@@ -65,5 +65,12 @@
         width: 700px;
         padding-left: 2rem;
         transform: translateY(-40%);
+    }
+    .container__segundo--textos h3{
+        margin-top: 8rem;
+        font-size: 60px;
+    }
+    .container__segundo--textos p{
+        font-size: 40px;
     }
 }
